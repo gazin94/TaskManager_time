@@ -8,6 +8,8 @@
     <string name="new_task_hint_description">Description</string>
     <string name="button_cancel_new_task_activity">Cancel</string>
     <string name="button_save_new_task_activity">Save</string>
+    <string name="notification_title">LetsGO</string>
+    <string name="notification_text">Go Go Go!</string>
     <string name="blinking_cursor">@null</string>
 
     <!-- -
